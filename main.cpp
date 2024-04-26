@@ -7,5 +7,6 @@ int main()
   while(age > 5)
   {
     std::cout << age << std::endl;
+    age--;
   }
 }
